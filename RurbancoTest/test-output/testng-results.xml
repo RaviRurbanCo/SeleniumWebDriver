@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-13T19:55:21 IST" name="Default suite" finished-at="2021-03-13T19:56:04 IST" duration-ms="42941">
+    <groups>
+    </groups>
+    <test started-at="2021-03-13T19:55:21 IST" name="Default test" finished-at="2021-03-13T19:56:04 IST" duration-ms="42941">
+      <class name="RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest@7ee955a8]" started-at="2021-03-13T19:55:21 IST" name="setUp" finished-at="2021-03-13T19:55:37 IST" duration-ms="16297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginPageTitlePage()[pri:1, instance:RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest@7ee955a8]" started-at="2021-03-13T19:55:37 IST" name="LoginPageTitlePage" finished-at="2021-03-13T19:55:37 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitlePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest@7ee955a8]" started-at="2021-03-13T19:55:37 IST" name="tearDown" finished-at="2021-03-13T19:55:39 IST" duration-ms="1255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest@7ee955a8]" started-at="2021-03-13T19:55:39 IST" name="setUp" finished-at="2021-03-13T19:55:52 IST" duration-ms="12944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logo()[pri:2, instance:RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest@7ee955a8]" started-at="2021-03-13T19:55:52 IST" name="logo" finished-at="2021-03-13T19:55:52 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest@7ee955a8]" started-at="2021-03-13T19:55:52 IST" name="tearDown" finished-at="2021-03-13T19:55:53 IST" duration-ms="1034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest@7ee955a8]" started-at="2021-03-13T19:55:53 IST" name="setUp" finished-at="2021-03-13T19:56:02 IST" duration-ms="9663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest()[pri:3, instance:RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest@7ee955a8]" started-at="2021-03-13T19:56:02 IST" name="LoginTest" finished-at="2021-03-13T19:56:03 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest@7ee955a8]" started-at="2021-03-13T19:56:03 IST" name="tearDown" finished-at="2021-03-13T19:56:04 IST" duration-ms="1170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- RurbanCoTestAutomation.RurbancoTest.AdminLoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
